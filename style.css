@@ -1,0 +1,44 @@
+.n1{
+    height: 50px;
+    width: 50px;
+    background-color: gray;
+    border-radius: 50%;
+}
+
+div{
+    padding-bottom: 3px;
+}
+
+.a1{
+    background-color: blueviolet;
+    height: 50px;
+    border-radius: 50%;
+    width: 50px;
+}
+
+.e1{
+    background-color: green;
+    height: 50px;
+    border-radius: 50%;
+    width: 50px;
+}
+
+.b1{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    padding-bottom: 3px;
+    background-color: rgb(238, 250, 246);
+}
+
+#console{
+    height: 50px;
+    width: 212px;
+    border-radius: 5px;
+}
+
+body{
+    height: fit-content ;
+    width: fit-content;
+    border-radius: 50%;
+}
